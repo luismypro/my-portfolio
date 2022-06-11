@@ -4,8 +4,8 @@
 ## Author - 🖋️
 **Luis Martinez Yranzo**
 
-* [Linkedin] (www.linkedin.com/in/luismypro)
-* [Portfolio] ()
+* [Linkedin](www.linkedin.com/in/luismypro)
+* [Portfolio](Portfolio)
 
 
 ## Instalation ⚙️
